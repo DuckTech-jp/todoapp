@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 .button_for_show {
-    border-right : solid 2px #000;
+    border-right: dashed red;
     border-bottom : solid 2px #000;
     width:1rem;
     height:1rem;
